@@ -1,0 +1,30 @@
+{
+  "name": "react-native-navigator-select",
+  "version": "1.0.0",
+  "description": "bottom sheet select",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/alzalabany/react-native-navigator-select.git"
+  },
+  "dependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.0",
+    "react-native-navigation": "^1.1.165",
+    "prop-types": "^15.5.10"
+  },
+  "keywords": [
+    "react-native-naviator",
+    "select",
+    "bottom sheet"
+  ],
+  "author": "Momen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/alzalabany/react-native-navigator-select/issues"
+  },
+  "homepage": "https://gitlab.com/alzalabany/react-native-navigator-select#README"
+}
