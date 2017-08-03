@@ -29,3 +29,4 @@ function onClick(data=[]){
 ```
 
 ![](./out.gif)
+![](out.gif)
