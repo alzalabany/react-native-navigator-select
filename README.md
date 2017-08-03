@@ -27,3 +27,5 @@ function onClick(data=[]){
 }
 
 ```
+
+![](./out.gif)
